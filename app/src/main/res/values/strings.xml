@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMoviDB</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="release_date">Release Date:</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="data">30-nov-2020</string>
+    <string name="vote_average">"Vote average: "</string>
+    <string name="average">10.0</string>
+</resources>
